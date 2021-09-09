@@ -1,1 +1,3 @@
 # colorstack
+
+## Author: Garner McCloud
